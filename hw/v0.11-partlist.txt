@@ -1,0 +1,46 @@
+Partlist exported from C:/Users/Martin/Disk Google/Eagle/maturitni_prace/hw/main_board.sch at 1.11.2018 8:38
+
+Qty Value        Device                 Package           Parts                                 Description                                                      
+1                31-XX                  B3F-31XX          S3                                    OMRON SWITCH                                                     
+1                DRV8833                SOP65P640X120-17N DRV8833PWP1                                                                                            
+  1   100k         R-EU_R0603             R0603             R1                                    RESISTOR, European symbol                                        
+  7   100n         C-EUC0603              C0603             C6, C7, C10, C11, C12, C16, C17       CAPACITOR, European symbol                                       
+1   100u         C-EUC0603              C0603             C15                                   CAPACITOR, European symbol                                       
+  8   10k          R-EU_R0603             R0603             R4, R13, R18, R19, R20, R21, R22, R23 RESISTOR, European symbol                                        
+  1   10n          C-EUC0603              C0603             C5                                    CAPACITOR, European symbol                                       
+  2   10u          C-EUC0805              C0805             C1, C2                                CAPACITOR, European symbol                                       
+1   10u          C-EUC1206              C1206             C4                                    CAPACITOR, European symbol                                       
+  2   12k          R-EU_R0603             R0603             R16, R17                              RESISTOR, European symbol                                        
+  1   15k          R-EU_R0603             R0603             R6                                    RESISTOR, European symbol                                        
+  2   1M           R-EU_R0603             R0603             R10, R11                              RESISTOR, European symbol                                        
+  1   1n           C-EUC0603              C0603             C13                                   CAPACITOR, European symbol                                       
+  1   1u           C-EUC0603              C0603             C14                                   CAPACITOR, European symbol                                       
+  2   2M           R-EU_R0603             R0603             R2, R3                                RESISTOR, European symbol                                        
+  1   2N7002       N-MOSFET-SOT23-GSD     SOT23             Q3                                                                                                     
+  1   2k2          R-EU_R0603             R0603             R7                                    RESISTOR, European symbol                                        
+  1   2u2          C-EUC0603              C0603             C3                                    CAPACITOR, European symbol                                       
+  2   2u2          CPOL-EUUD-4X5,8        UD-4X5,8_NICHICON C8, C9                                POLARIZED CAPACITOR, European symbol                             
+  3   330          R-EU_R0603             R0603             R9, R12, R24                          RESISTOR, European symbol                                        
+  3   470          R-EU_R0603             R0603             R8, R14, R15                          RESISTOR, European symbol                                        
+1   47k          R-EU_R0603             R0603             R5                                    RESISTOR, European symbol                                        
+  1   BC807        BC807-25-PNP-SOT23-BEC SOT23-BEC         T1                                    PNP Transistror                                                  
+2   BC817        BC817-25-NPN-SOT23-BEC SOT23-BEC         T2, T3                                NPN Transistror                                                  
+  1   EC12E_SW     EC12E_SW               ALPS_EC12E_SW     SW1                                   ALPS rotary Encoder EC12E series with switch                     
+1   ESP-WROOM-32 ESP-WROOM-32           ESP-WROOM-32      U2                                    Espressif Systems ESP-WROOM-32                                   
+  2   IRFR5305     IRFR5305               D-PAK_TO252AA     Q1, Q2                                HEXFET Power MOSFET                                              
+2   LFDPAK?C     LFDPAK?C               DPAK              IO1, IO2                              LF??C - stabilizátory low-drop                                   
+1   MCP3202SN    MCP3202SN              SO-08             IC1                                   2.7V Dual Channel 12-Bit A/D Converter with SPI Serial Interface 
+1   PIEZO        PIEZO                  PIEZO             U$1                                                                                                    
+                                                  
+1   PT1000       PINHD-1X2              1X02              JP4                                   PIN HEADER                                                       
+  1   SK34         SHOTTKY-SMB            SMB               D1                                                                                                     
+1   START_BTN    10-XX                  B3F-10XX          S4                                    OMRON SWITCH                                                     
+                                                       
+1   STOP_BUTTON  PINHD-1X2              1X02              JP2                                   PIN HEADER                                                       
+1   Si4134       N-MOSFET-SO8           SO-8              Q4                                                                                                     
+                                                         
+  1   VIBRATE_SW   PINHD-1X2              1X02              JP10                                  PIN HEADER                                                       
+1   blue         LEDCHIP-LED0603        CHIP-LED0603      LED4                                  LED                                                              
+1   green        LEDCHIP-LED0603        CHIP-LED0603      LED2                                  LED                                                              
+1   red          LEDCHIP-LED0603        CHIP-LED0603      LED1                                  LED                                                              
+1   yellow       LEDCHIP-LED0603        CHIP-LED0603      LED3                                  LED                                                              
